@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.module.validictory"
        name="validictory"
-       version="0.9.3"
-       provider-name="sunlightlabs">
+       version="1.0.1"
+       provider-name="Rui Castro, sunlightlabs">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -10,10 +10,9 @@
              library="lib" />
   <extension point="xbmc.addon.metadata">
     <summary>A general purpose Python data validator</summary>
-    <description>Packed for XBMC from https://github.com/sunlightlabs/validictory</description>
+    <description>Packed for KODI from https://github.com/jamesturk/validictory</description>
     <license>MIT</license>
     <platform>all</platform>
-    <source>https://github.com/sunlightlabs/validictory</source>
-    <website>https://github.com/sunlightlabs/validictory</website>
+    <source>https://github.com/rui-castro/script.module.validictory</source>
   </extension>
 </addon>

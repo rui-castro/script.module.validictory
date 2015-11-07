@@ -1,4 +1,4 @@
 xbmc-validictory
 ================
 
-validictory packed for XBMC
+validictory packed for XBMC/KODI
